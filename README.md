@@ -39,6 +39,7 @@ run this command
 ```
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 ```
+then reboot and voila
 
 ## Potential problems and solutions
 
@@ -51,13 +52,13 @@ do a "chroot", but worry not, here's what you need:
 - USB drive with arch iso
 - 15 minutes of free time
 - Stable internet connection
-- this on-point [article]()
+- this on-point [article](https://www.jeremymorgan.com/tutorials/linux/how-to-reinstall-boot-loader-arch-linux/)
 
 
 ## Credit
 
-[Cute Ghost profile]()
-[Dracula Grub]()
+[Cute Ghost profile](https://www.flaticon.com/free-icon/ghost_1150381?term=ghost&page=1&position=52&page=1&position=52&related_id=1150381&origin=style)
+[Dracula Grub](https://draculatheme.com/grub)
 
 ## License
 
