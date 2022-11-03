@@ -57,8 +57,8 @@ do a "chroot", but worry not, here's what you need:
 
 ## Credit
 
-[Cute Ghost profile](https://www.flaticon.com/free-icon/ghost_1150381?term=ghost&page=1&position=52&page=1&position=52&related_id=1150381&origin=style)
-[Dracula Grub](https://draculatheme.com/grub)
+- [Cute Ghost profile](https://www.flaticon.com/free-icon/ghost_1150381?term=ghost&page=1&position=52&page=1&position=52&related_id=1150381&origin=style)
+- [Dracula Grub](https://draculatheme.com/grub)
 
 ## License
 
