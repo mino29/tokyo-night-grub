@@ -31,7 +31,7 @@ sudo cp -r tokyo-night /boot/grub/themes
 sudo vim /etc/default/grub
 ```
 change `#GRUB_THEME=` to
-`GRUB_THEME = "/boot/grub/themes/dracula/theme.txt"`
+`GRUB_THEME = "/boot/grub/themes/tokyo-night/theme.txt"`
 
 4.use magic and reboot
 
