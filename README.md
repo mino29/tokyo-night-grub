@@ -12,7 +12,7 @@ worked just fine.
 ## Compatibility
 > It should be compatible with all linux distros that uses grub
 
-But I only used ubuntu, fedora and arch  so far, so your milage may vary.
+But I only used ubuntu, fedora and arch  so far, so your mileage may vary.
 
 ## Install
 
