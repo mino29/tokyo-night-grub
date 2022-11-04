@@ -9,6 +9,11 @@ Basically just minor tweaks of Dracula grub that I made to go along with my
 This can adapt to various resolustions of screens, at least my 1080p screen
 worked just fine.
 
+## Compatibility
+> It should be compatible with all linux distros that uses grub
+
+But I only used ubuntu, fedora and arch  so far, so your milage may vary.
+
 ## Install
 
 Steps:
