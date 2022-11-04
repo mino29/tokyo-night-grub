@@ -6,7 +6,7 @@ Basically just minor tweaks of Dracula grub that I made to go along with my
 
 ![Screenshot](./screenshot.png)
 
-This should fit all kinds of resolustion of screens, at least my 1080p screen
+This can adapt to various resolustions of screens, at least my 1080p screen
 worked just fine.
 
 ## Install
@@ -52,7 +52,7 @@ do a "chroot", but worry not, here's what you need:
 - USB drive with arch iso
 - 15 minutes of free time
 - Stable internet connection
-- this on-point [article](https://www.jeremymorgan.com/tutorials/linux/how-to-reinstall-boot-loader-arch-linux/)
+- [this on-point article](https://www.jeremymorgan.com/tutorials/linux/how-to-reinstall-boot-loader-arch-linux/)
 
 
 ## Credit
