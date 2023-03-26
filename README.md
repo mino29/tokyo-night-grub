@@ -26,10 +26,10 @@ Steps:
 git clone https://github.com/mino29/tokyo-night-grub.git
 ```
 
-2. copy the whole tokyo-night directory grub themes
+2. copy the whole tokyo-night-grub directory grub themes
 
 ```bash
-sudo cp -r tokyo-night /boot/grub/themes
+sudo cp -r tokyo-night-grub /boot/grub/themes
 ```
 
 3. edit grub file
@@ -38,7 +38,7 @@ sudo cp -r tokyo-night /boot/grub/themes
 sudo vim /etc/default/grub
 ```
 change `#GRUB_THEME=` to
-`GRUB_THEME="/boot/grub/themes/tokyo-night/theme.txt"`
+`GRUB_THEME="/boot/grub/themes/tokyo-night-grub/tokyo-night/theme.txt"`
 
 4.use magic and reboot
 
