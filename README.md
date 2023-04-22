@@ -29,7 +29,7 @@ git clone https://github.com/mino29/tokyo-night-grub.git
 2. copy the whole tokyo-night directory grub themes
 
 ```bash
-sudo cp -r tokyo-night /boot/grub/themes
+sudo cp -r tokyo-night-grub /boot/grub/themes
 ```
 
 3. edit grub file
